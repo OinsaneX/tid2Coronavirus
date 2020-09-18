@@ -11,12 +11,12 @@ function Navigation() {
   </button>
   <div className="collapse navbar-collapse " id="navbarNavAltMarkup">
     <div className="navbar-nav ">
-      <a className="nav-link active" href="#/App/Home">Home <span className="sr-only">(current)</span></a>
-      <a className="nav-link active" href="#/App/WorldInfo">WorldInfo <span className="sr-only">(current)</span></a>
-      <a className="nav-link active" href="#/App/Notices">Notices <span className="sr-only">(current)</span></a>
+      <a className="nav-link active" href="/App/Home">Home <span className="sr-only">(current)</span></a>
+      <a className="nav-link active" href="/App/WorldInfo">WorldInfo <span className="sr-only">(current)</span></a>
+      <a className="nav-link active" href="/App/Notices">Notices <span className="sr-only">(current)</span></a>
 
-      <a className="nav-link active" href="#/App/Profile">Profile <span className="sr-only">(current)</span></a>
-      <a className="nav-link active" href="#/App/Credit">Credits <span className="sr-only">(current)</span></a>
+      <a className="nav-link active" href="/App/Profile">Profile <span className="sr-only">(current)</span></a>
+      <a className="nav-link active" href="/App/Credit">Credits <span className="sr-only">(current)</span></a>
       <a className="nav-link active rigth " href="/#">Logout <span className="sr-only">(current)</span></a>
 
     </div>
