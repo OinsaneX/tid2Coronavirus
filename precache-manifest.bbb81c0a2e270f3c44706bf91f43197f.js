@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43b2126ea0ea718cbd9b24c49b069f99",
+    "revision": "e18f808062617e7e2a82e34839c3528f",
     "url": "/tid2Coronavirus/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tid2Coronavirus/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "cf4472455b4e693dd454",
+    "revision": "c6150c531d2a742d66d6",
     "url": "/tid2Coronavirus/static/css/main.00e415fa.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tid2Coronavirus/static/js/2.3a1dffc0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf4472455b4e693dd454",
-    "url": "/tid2Coronavirus/static/js/main.27cf678b.chunk.js"
+    "revision": "c6150c531d2a742d66d6",
+    "url": "/tid2Coronavirus/static/js/main.0d1c293f.chunk.js"
   },
   {
     "revision": "758f4c233e57d47b15ab",
