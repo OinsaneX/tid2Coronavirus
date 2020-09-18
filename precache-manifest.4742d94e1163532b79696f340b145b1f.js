@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "414654e9faae467453b0207a9a7431f9",
+    "revision": "7aa04501002fc08021c403813da430e5",
     "url": "/tid2Coronavirus/index.html"
   },
   {
-    "revision": "859fd1a3c9814df2769b",
+    "revision": "c21c5c72406ccc49b8ef",
     "url": "/tid2Coronavirus/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "83866d10ebc015f13896",
+    "revision": "a6dfe441c5e29cc3aa6a",
     "url": "/tid2Coronavirus/static/css/main.00e415fa.chunk.css"
   },
   {
-    "revision": "859fd1a3c9814df2769b",
-    "url": "/tid2Coronavirus/static/js/2.3a1dffc0.chunk.js"
+    "revision": "c21c5c72406ccc49b8ef",
+    "url": "/tid2Coronavirus/static/js/2.7ba78c58.chunk.js"
   },
   {
     "revision": "b6840d1fa4cd3c3e88b7c215b28b2e9e",
-    "url": "/tid2Coronavirus/static/js/2.3a1dffc0.chunk.js.LICENSE.txt"
+    "url": "/tid2Coronavirus/static/js/2.7ba78c58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83866d10ebc015f13896",
-    "url": "/tid2Coronavirus/static/js/main.0f1ece42.chunk.js"
+    "revision": "a6dfe441c5e29cc3aa6a",
+    "url": "/tid2Coronavirus/static/js/main.77082017.chunk.js"
   },
   {
     "revision": "758f4c233e57d47b15ab",
